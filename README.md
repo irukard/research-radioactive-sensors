@@ -1,3 +1,5 @@
+[![License: CC0-1.0](https://img.shields.io/badge/License-CC0%201.0-informational.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
+
 # Useful links
 
 - EN: [Geiger Counter - Radiation Sensor Board for Arduino and Raspberry Pi](https://www.cooking-hacks.com/documentation/tutorials/geiger-counter-radiation-sensor-board-arduino-raspberry-pi-tutorial) - contains a good list of Geiger-Muller tubes with their dimmensions and operating voltage.
